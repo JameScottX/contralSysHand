@@ -1,5 +1,5 @@
 # contralSysHand
-　　An app based on QT that can communicate with microchips in multiple ways.  
+　　An app based on [**QT**](https://www.qt.io/) that can communicate with microchips in multiple ways.  
 
 
 ## Here are the details:  
